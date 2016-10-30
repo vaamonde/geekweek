@@ -76,3 +76,6 @@ msfconsole
 
 #Verificando as opções para exploração de serviços
 show auxiliary
+
+#NONA FERRAMENTA: Nikto (https://cirt.net/Nikto2)
+nikto -h ALVO
