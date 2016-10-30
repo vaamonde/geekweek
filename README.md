@@ -21,9 +21,9 @@ Telefone: 11.2191-2900
 Data e Horário
 25/10/2016 até 05/11/2016
 
-<b>Oficina: Hacker’s War – prepare suas armas</b>
-01/11/2016 das 13h30 às 17h30
-Preço: Participação gratuita.
+<b>Oficina: Hacker’s War – Prepare suas Armas</b><br>
+01/11/2016 das 13h30 às 17h30<br>
+Preço: Participação gratuita.<br>
 
 A atividade proporciona aos participantes um desafio hacker real: uma sala ambiente onde as equipes através de simulações de invasão hacker deverão ser combatidas em um tempo determinado, cada dia com uma missão diferente.
 Uma verdadeira guerra contra o tempo contra invasões cibernéticas. Está pronto para o desafio?
@@ -34,9 +34,9 @@ Na primeira atividade, é importante saber que na era dos ciberataques e ciberat
 Leandro Pereira Ramos - Formado em Gerenciamento de Redes e pós-graduado em Integração de Sistemas pela Profissional na área de Redes de Computadores, com certificação Microsoft e Furukawa. Docente do Senac Tatuapé há 15 anos. 
 Robson da Silva Vaamonde - Consultor de Infraestrutura de Redes de Computadores certificado em Microsoft Windows, GNU/Linux, CISCO e Furukawa. Professor na área de TI no Senac Tatuapé. Mantenedor do Blog/Redes Sociais Procedimentos em TI e Bora para Prática.
 
-<b>Oficina: Hacker’s War – conheça seu inimigo</b>
-03/11/2016 das 13h30 às 17h30
-Preço: Participação gratuita.
+<b>Oficina: Hacker’s War – Conheça seu Inimigo</b><br>
+03/11/2016 das 13h30 às 17h30<br>
+Preço: Participação gratuita.<br>
 
 A atividade proporciona aos participantes um desafio hacker real: uma sala ambiente onde as equipes através de simulações de invasão hacker deverão ser combatidas em um tempo determinado, cada dia com uma missão diferente.
 Uma verdadeira guerra contra o tempo contra invasões cibernéticas. Está pronto para o desafio?
@@ -47,9 +47,9 @@ Nesta segunda atividade, seus inimigos terão várias formas diferentes de se ca
 Leandro Pereira Ramos - Formado em Gerenciamento de Redes e pós-graduado em Integração de Sistemas pela Profissional na área de Redes de Computadores, com certificação Microsoft e Furukawa. Docente do Senac Tatuapé há 15 anos. 
 Robson da Silva Vaamonde - Consultor de Infraestrutura de Redes de Computadores certificado em Microsoft Windows, GNU/Linux, CISCO e Furukawa. Professor na área de TI no Senac Tatuapé. Mantenedor do Blog/Redes Sociais Procedimentos em TI e Bora para Prática.
 
-<b>Oficina: Hacker’s War – finalize sua missão</b>
-04/11/2016 das 13h30 às 17h30
-Preço: Participação gratuita.
+<b>Oficina: Hacker’s War – Finalize sua Missão</b><br>
+04/11/2016 das 13h30 às 17h30<br>
+Preço: Participação gratuita.<br>
 
 A atividade proporciona aos participantes um desafio hacker real: uma sala ambiente onde as equipes através de simulações de invasão hacker deverão ser combatidas em um tempo determinado, cada dia com uma missão diferente.
 Uma verdadeira guerra contra o tempo contra invasões cibernéticas. Está pronto para o desafio?
