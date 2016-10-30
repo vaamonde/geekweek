@@ -1,7 +1,7 @@
 # geekweek
 Scripts utilizados nas aulas do Evento da Geek Week do SENAC Tatuapé, curso de Hackers War
 
-<a>De 31 de outubro a 5 de novembro, o Senac Tatuapé promove a 2ª edição da Geek Week.</a>
+<b>De 31 de outubro a 5 de novembro, o Senac Tatuapé promove a 2ª edição da Geek Week.</b>
 
 A programação inclui diversas atividades nas áreas computação gráfica, aplicativos, redes e infraestrutura, beleza e eventos, promovendo um grande encontro para todos os aficionados pela cultura geek.
 
@@ -21,7 +21,7 @@ Telefone: 11.2191-2900
 Data e Horário
 25/10/2016 até 05/11/2016
 
-<a>Oficina: Hacker’s War – prepare suas armas</a>
+<b>Oficina: Hacker’s War – prepare suas armas</b>
 01/11/2016 das 13h30 às 17h30
 Preço: Participação gratuita.
 
@@ -34,7 +34,7 @@ Na primeira atividade, é importante saber que na era dos ciberataques e ciberat
 Leandro Pereira Ramos - Formado em Gerenciamento de Redes e pós-graduado em Integração de Sistemas pela Profissional na área de Redes de Computadores, com certificação Microsoft e Furukawa. Docente do Senac Tatuapé há 15 anos. 
 Robson da Silva Vaamonde - Consultor de Infraestrutura de Redes de Computadores certificado em Microsoft Windows, GNU/Linux, CISCO e Furukawa. Professor na área de TI no Senac Tatuapé. Mantenedor do Blog/Redes Sociais Procedimentos em TI e Bora para Prática.
 
-<a>Oficina: Hacker’s War – conheça seu inimigo</a>
+<b>Oficina: Hacker’s War – conheça seu inimigo</b>
 03/11/2016 das 13h30 às 17h30
 Preço: Participação gratuita.
 
@@ -47,7 +47,7 @@ Nesta segunda atividade, seus inimigos terão várias formas diferentes de se ca
 Leandro Pereira Ramos - Formado em Gerenciamento de Redes e pós-graduado em Integração de Sistemas pela Profissional na área de Redes de Computadores, com certificação Microsoft e Furukawa. Docente do Senac Tatuapé há 15 anos. 
 Robson da Silva Vaamonde - Consultor de Infraestrutura de Redes de Computadores certificado em Microsoft Windows, GNU/Linux, CISCO e Furukawa. Professor na área de TI no Senac Tatuapé. Mantenedor do Blog/Redes Sociais Procedimentos em TI e Bora para Prática.
 
-<a>Oficina: Hacker’s War – finalize sua missão</a>
+<b>Oficina: Hacker’s War – finalize sua missão</b>
 04/11/2016 das 13h30 às 17h30
 Preço: Participação gratuita.
 
