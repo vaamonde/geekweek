@@ -39,4 +39,40 @@ nmap --iflist ALVO
 #Atualizando o wpscan
 wpscan --update
 
-#
+#Analisando o nosso alvo
+wpscan ALVO
+
+#TERCEIRA FERRAMENTA: Wireshark (https://www.wireshark.org/)
+
+#Analisando o tráfego da Placa de Rede
+wireshark
+
+#QUARTA FERRAMENTA: Dicionários de Usuários/Senhas (darkc0de.lst)
+#Site: https://crackstation.net/
+#Pesquisa no Google: top 10 username and password wordpress
+
+#QUINTA FERRAMENTA: Linguagem de Programação Curl
+
+#Verificando o campo de Username
+curl ALVO | grep -i user_login
+
+#Verificando o campo de Password
+curl ALVO | grep password
+
+#SEXTA FERRAMENTA: Brute Force Hydra (https://www.thc.org/thc-hydra/) CUIDADO!!!
+hydra OPÇÕES ALVO
+hydra -l admin -P senhas.txt 10.10.10.123 ftp
+
+#SETIMA FERRAMENTA: Brute Force Sucrack (http://www.leidecker.info/projects/sucrack.shtml)
+sucrack wordlist.lst
+
+#OITAVA FERRAMENTA: Metasploit (https://www.metasploit.com/)
+
+#Atualizando a base de dados
+msfupdate
+
+#Acessando o console
+msfconsole
+
+#Verificando as opções para exploração de serviços
+show auxiliary
