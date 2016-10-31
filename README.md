@@ -13,13 +13,13 @@ A abertura oficial acontece em 31/10, mas as oficinas começam a partir de 25/10
 
 <b>Tags:</b> Senac SP, Senac Tatuapé, geek, nerd, zumbi, make-up, arduíno, robótica, tecnologia da informação, Irmãos Piologo, HQ, Quadrinhos, Google, Adobe
 
-Senac Tatuapé
-Rua Coronel Luiz Americano, 130 - Tatuapé
-São Paulo - SP
-E-mail: tatuape@sp.senac.br
-Telefone: 11.2191-2900
-Data e Horário
-25/10/2016 até 05/11/2016
+Senac Tatuapé<br>
+Rua Coronel Luiz Americano, 130 - Tatuapé<br>
+São Paulo - SP<br>
+E-mail: tatuape@sp.senac.br<br>
+Telefone: 11.2191-2900<br>
+Data e Horário<br>
+25/10/2016 até 05/11/2016<br>
 
 <b>Oficina: Hacker’s War – Prepare suas Armas</b><br>
 01/11/2016 das 13h30 às 17h30<br>
