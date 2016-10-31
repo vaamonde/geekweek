@@ -49,6 +49,7 @@ telnet ALVO 80
 
 #Analisando os pacotes enviados pela Interface com o TCPdump
 tcpdump
+tshark
 
 #Vendo a tabela de ARP Local
 arp -a
