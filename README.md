@@ -1,5 +1,5 @@
 # geekweek
-Scripts utilizados nas aulas do Evento da Geek Week do SENAC Tatuapé, curso de Hackers War
+Scripts utilizados nas aulas do Evento da Geek Week do SENAC Tatuapé, oficina de Hackers War
 
 <b>De 31 de outubro a 5 de novembro, o Senac Tatuapé promove a 2ª edição da Geek Week.</b>
 
