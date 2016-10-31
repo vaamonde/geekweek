@@ -15,26 +15,27 @@
 
 #Pingando o Google, o comando ping faz o teste fim-a-fim, traduzindo Nome para IP.
 #64 bytes = tamanho do pacote, TTL = Time to Live, Time= Tempo de Resposta
-ping www.google.com
+ping alvo
 
 #Descobrindo o endereço IP do domínio google.com
-host www.google.com
-host -t CNAME
+host ALVO
+host -t CNAME ALVO
 
 #Verificando os servidores de DNS responsável pela tradução de nomes do domínio google.com
-nslookup www.google.com
+nslookup ALVO
 
 #Verificando informações mais detalhadas do DNS do google.com
-nslookup -type=any google.com
+nslookup -type=any ALVO
 
 #Usando o dig para ver mais informações de DNS
-dig www.google.com
+dig ALVO
 
 #Verificando informações do registro do DNS
-whois www.google.com
+whois ALVO
 
 #Verificando as rotas (saltos) até o domínio google.com
-traceroute www.google.com
+traceroute ALVO
+traceroute -n ALVO
 
 #Verificando as conexões estabelecidas
 #n=não traduzir nomes, a=tudo, t=tcp, u=udp, p=processo
@@ -51,3 +52,9 @@ tcpdump
 
 #Vendo a tabela de ARP Local
 arp -a
+
+#Teste de acesso ao Servidor Web usando o Curl
+curl -I ALVO
+
+#Teste de download utilizando o wget
+wget -N ALVO
