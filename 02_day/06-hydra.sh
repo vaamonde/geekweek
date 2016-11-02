@@ -8,7 +8,7 @@
 # Data de atualização: 31/10/2016
 # Versão: 1.0
 
-#Variável do comando 
+#Variável do comando Hydra
 ALVO="www.SEU_ALVO.br"
 USERNAME="admin"
 WORDLIST="darkc0de.lst"
