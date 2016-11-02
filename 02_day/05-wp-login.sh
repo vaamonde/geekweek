@@ -13,7 +13,7 @@ ALVO="http://www.SEU_ALVO.br/wp-login.php"
 
 #Executando o comando Curl integrado com o comando Grep, opção -i não Case Sensitive.
 #Localizando o campo de Username Login
-echo -e "Executando o comando Curl no alvo: $ALVO"
+echo -e "Executando o comando Curl no alvo: $ALVO, localizando o campo User Login"
 echo
   curl $ALVO | grep --color -i user_login
 echo
@@ -22,7 +22,7 @@ echo
 echo
 #Executando o comando Curl integrado com o comando Grep, opção -i não Case Sensitive.
 #Localizando o campo de Password
-echo -e "Executando o comando Curl no alvo: $ALVO"
+echo -e "Executando o comando Curl no alvo: $ALVO, localizando o campo Password"
 echo
   curl $ALVO | grep --color -i password
 echo
@@ -31,7 +31,7 @@ echo
 echo
 #Executando o comando Curl integrado com o comando Grep, opção -i não Case Sensitive.
 #Localizando o campo de Hidden
-echo -e "Executando o comando Curl no alvo: $ALVO"
+echo -e "Executando o comando Curl no alvo: $ALVO, localizando o campos Hidden (atributo booleano que indica se um elemento é ou não relevante)"
 echo
   curl $ALVO | grep --color -i hidden
 echo
