@@ -21,6 +21,6 @@ scp 10-su.sh $USERNAME@$ALVO:/tmp
 echo
 echo -e "Executando o comando SSH no alvo: $ALVO"
 echo
-ssh $USERNAME@ALVO 'ls -lha /tmp'
+ssh $USERNAME@$ALVO 'ls -lha /tmp'
 echo
 echo -e "Fim da execução `date`"
