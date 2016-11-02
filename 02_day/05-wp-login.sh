@@ -15,7 +15,7 @@ ALVO="http://www.SEU_ALVO.br/wp-login.php"
 #Localizando o campo de Username Login
 echo -e "Executando o comando Curl no alvo: $ALVO"
 echo
-  curl $ALVO | grep -i user_login
+  curl $ALVO | grep --color -i user_login
 echo
 echo -e "Fim da execução `date`"
 echo
@@ -24,7 +24,7 @@ echo
 #Localizando o campo de Password
 echo -e "Executando o comando Curl no alvo: $ALVO"
 echo
-  curl $ALVO | grep -i password
+  curl $ALVO | grep --color -i password
 echo
 echo -e "Fim da execução `date`"
 echo
@@ -33,7 +33,7 @@ echo
 #Localizando o campo de Hidden
 echo -e "Executando o comando Curl no alvo: $ALVO"
 echo
-  curl $ALVO | grep -i hidden
+  curl $ALVO | grep --color -i hidden
 echo
 echo -e "Fim da execução `date`"
 echo
