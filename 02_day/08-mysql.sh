@@ -12,7 +12,7 @@
 ALVO="www.SEU_ALVO.br"
 USERNAME="root"
 WORDLIST="senhas.txt"
-PORT="22"
+PORT="3306"
 SERVICE="mysql"
 
 #Executando o comando Hydra com a opções: -s=Porta, -e=Checagens Adcionais, -f=Após confirmação de Login, sair do acesso, -vV=Modo Verboso, detalhado na hora de passar usuário e senhas, -L=Wordlist de Usuários, -P=Wordlist de senhas, -t=Tarefas/Tentativas
