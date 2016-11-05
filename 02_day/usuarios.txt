@@ -1,4 +1,2 @@
 admin
 root
-uninove
-ftpuninove
