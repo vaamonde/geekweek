@@ -1,7 +1,2 @@
-uninove
-uninove@10
-uninove@root
-uninove@sql
-uninove@admin
-uninove@wordpress
-uninove@ftp
+admin
+root
